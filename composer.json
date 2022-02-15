@@ -15,7 +15,7 @@
   "require": {
     "php": ">=7.3",
     "fond-of-oryx/erp-delivery-note-extension": "^1.0.0",
-    "fond-of-spryker/country": "dev-spryker_upgrade || dev-feature/paypal-refund",
+    "spryker/country": "^3.0.0",
     "spryker/company-business-unit": "^1.0.0 || ^2.0.0"
   },
   "require-dev": {
